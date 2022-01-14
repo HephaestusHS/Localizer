@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+	<language name="en">
+		<field name="Continue">Continue</field>
+		<field name="Load">Load</field>
+		<field name="Settings">Settings</field>
+		<field name="Exit">Exit</field>
+	</language>
+	<language name="tr">
+		<field name="Continue">Devam Et</field>
+		<field name="Load">Yükle</field>
+		<field name="Settings">Ayarlar</field>
+		<field name="Exit">Kapat</field>
+	</language>
+</languages>

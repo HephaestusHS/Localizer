@@ -1,0 +1,14 @@
+﻿{
+  "en": {
+    "Continue": "Continue",
+    "Load": "Load",
+    "Settings": "Settings",
+    "Exit": "Exit"
+  },
+  "tr": {
+    "Continue": "Devam Et",
+    "Load": "Yükle",
+    "Settings": "Ayarlar",
+    "Exit": "Kapat"
+  }
+}

@@ -1,0 +1,15 @@
+﻿-N:Continue
+
+Devam Et
+
+-N:Load
+
+Yükle
+
+-N:Settings
+
+Ayarlar
+
+-N:Exit
+
+Kapat

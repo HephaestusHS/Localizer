@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fields>
+	<field name="Continue">Devam Et</field>
+	<field name="Load">Yükle</field>
+	<field name="Settings">Ayarlar</field>
+	<field name="Exit">Kapat</field>
+</fields>

@@ -1,0 +1,17 @@
+﻿-N:Continue
+
+Continue
+Another line
+
+-N:Load
+
+Load
+
+-N:Settings
+
+Settings
+
+-N:Exit
+
+
+Exit
